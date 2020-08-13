@@ -1,3 +1,13 @@
-# meta-xilinx-update
+meta-xilinx-update
+=============
 
-Layer to store asynchronous update recipes
+This layer provides support for updates after an official release
+
+
+Maintainers
+===========
+
+    Mark Hatle <mark.hatle@xilinx.com>
+
+    Jaewon Lee <jaewon.lee@xilinx.com>
+
